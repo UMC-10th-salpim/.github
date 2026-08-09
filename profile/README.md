@@ -2,15 +2,11 @@
 
 ---
 
-### PM
-| <img src="https://github.com/lohii0709-collab.png" width="80"/> |
-|:---:|
-| **지니** |
-| [@lohii0709-collab](https://github.com/lohii0709-collab) |
-
-### Design
-| **홍시** |
-|:---:|
+### PM & Design
+| <img src="https://github.com/lohii0709-collab.png" width="80"/> | |
+|:---:|:---:|
+| **지니 (PM)** | **홍시 (Design)** |
+| [@lohii0709-collab](https://github.com/lohii0709-collab) | |
 
 ### FE
 | <img src="https://github.com/OscarKang1.png" width="80"/> | <img src="https://github.com/bukyung03.png" width="80"/> | <img src="https://github.com/joshuasa0122.png" width="80"/> |
