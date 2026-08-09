@@ -1,6 +1,10 @@
 ## UMC 10th - 살핌 👋
 
 ---
+### 서비스 주소
+https://salpim.me/
+<img width="676" height="904" alt="image" src="https://github.com/user-attachments/assets/25b38321-a1eb-4c4c-abd6-f6fed97c4ea8" />
+
 
 ### PM & Design
 | <img src="https://github.com/lohii0709-collab.png" width="80"/> | |
