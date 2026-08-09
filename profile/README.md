@@ -1,9 +1,28 @@
-## UMC 10th - 살핌 👋
+# UMC 10th - 살핌 👋
 
-#### PM - 지니
-#### Design - 홍시
-#### FE - 오스카, 동동, 조시
-#### BE - 에반, 미키, 윤샘, 빈, 코지 
+---
+
+## PM
+| <img src="https://github.com/lohii0709-collab.png" width="80"/> |
+|:---:|
+| **지니** |
+| [@lohii0709-collab](https://github.com/lohii0709-collab) |
+
+## Design
+| **홍시** |
+|:---:|
+
+## FE
+| <img src="https://github.com/OscarKang1.png" width="80"/> | <img src="https://github.com/bukyung03.png" width="80"/> | <img src="https://github.com/joshuasa0122.png" width="80"/> |
+|:---:|:---:|:---:|
+| **오스카** | **동동** | **조시** |
+| [@OscarKang1](https://github.com/OscarKang1) | [@bukyung03](https://github.com/bukyung03) | [@joshuasa0122](https://github.com/joshuasa0122) |
+
+## BE
+| <img src="https://github.com/Sangrix.png" width="80"/> | <img src="https://github.com/migi0401.png" width="80"/> | <img src="https://github.com/tjdals-dbs.png" width="80"/> | <img src="https://github.com/2u6in.png" width="80"/> | <img src="https://github.com/Jihong02.png" width="80"/> |
+|:---:|:---:|:---:|:---:|:---:|
+| **에반** | **미키** | **윤샘** | **빈** | **코지** |
+| [@Sangrix](https://github.com/Sangrix) | [@migi0401](https://github.com/migi0401) | [@tjdals-dbs](https://github.com/tjdals-dbs) | [@2u6in](https://github.com/2u6in) | [@Jihong02](https://github.com/Jihong02) |
 
 <!--
 
