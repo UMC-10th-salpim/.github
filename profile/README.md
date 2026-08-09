@@ -11,8 +11,6 @@
 ### Design
 | **홍시** |
 |:---:|
-|![Uploading image.png…]()|
-
 
 ### FE
 | <img src="https://github.com/OscarKang1.png" width="80"/> | <img src="https://github.com/bukyung03.png" width="80"/> | <img src="https://github.com/joshuasa0122.png" width="80"/> |
