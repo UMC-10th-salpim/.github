@@ -1,4 +1,4 @@
-<img width="534" height="314" alt="image" src="https://github.com/user-attachments/assets/32d7ffc8-2759-47c7-a71a-d34d42ed210f" /># UMC 10th - 살핌 👋
+# UMC 10th - 살핌 👋
 
 ---
 
