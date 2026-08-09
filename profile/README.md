@@ -1,24 +1,26 @@
-# UMC 10th - 살핌 👋
+<img width="534" height="314" alt="image" src="https://github.com/user-attachments/assets/32d7ffc8-2759-47c7-a71a-d34d42ed210f" /># UMC 10th - 살핌 👋
 
 ---
 
-## PM
+### PM
 | <img src="https://github.com/lohii0709-collab.png" width="80"/> |
 |:---:|
 | **지니** |
 | [@lohii0709-collab](https://github.com/lohii0709-collab) |
 
-## Design
+### Design
 | **홍시** |
 |:---:|
+|![Uploading image.png…]()|
 
-## FE
+
+### FE
 | <img src="https://github.com/OscarKang1.png" width="80"/> | <img src="https://github.com/bukyung03.png" width="80"/> | <img src="https://github.com/joshuasa0122.png" width="80"/> |
 |:---:|:---:|:---:|
 | **오스카** | **동동** | **조시** |
 | [@OscarKang1](https://github.com/OscarKang1) | [@bukyung03](https://github.com/bukyung03) | [@joshuasa0122](https://github.com/joshuasa0122) |
 
-## BE
+### BE
 | <img src="https://github.com/Sangrix.png" width="80"/> | <img src="https://github.com/migi0401.png" width="80"/> | <img src="https://github.com/tjdals-dbs.png" width="80"/> | <img src="https://github.com/2u6in.png" width="80"/> | <img src="https://github.com/Jihong02.png" width="80"/> |
 |:---:|:---:|:---:|:---:|:---:|
 | **에반** | **미키** | **윤샘** | **빈** | **코지** |
