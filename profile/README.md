@@ -1,7 +1,7 @@
 ## UMC 10th - 살핌 👋
 
 ---
-### 서비스 주소
+## 서비스 주소
 https://salpim.me/
 
 ### PM & Design
