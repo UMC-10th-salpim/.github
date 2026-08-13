@@ -2,7 +2,7 @@
 
 ---
 ### 서비스 주소
-https://salpim.me/
+https://salpim.me
 
 ### PM & Design
 | <img src="https://github.com/lohii0709-collab.png" width="80"/> | |
